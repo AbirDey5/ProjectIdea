@@ -30,7 +30,10 @@ FITNESS & WORKOUT APP (JAVA):
 [ Edit profile ->add info(weight,height,age,gender) ->suggest personalised plans  based on info
 Main Menu will have an edit update personal information option]
 
-
+unga bunga
+mathai ase chunga
+gaaye ase tel
+pai na kono bel
 
 Github e upload kore dekhi. Ki bolos?
 GORI DE UPLOAD
